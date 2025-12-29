@@ -1,26 +1,38 @@
 # INTRODUCTION
 
 ## Write Text to README.md File
-- [ ] echo "# git-labs-ifeanyi" >> README.md
+```
+echo "# git-labs-ifeanyi" >> README.md
+```
 
 ## Commit README.md File
-- [ ] git init
-- [ ] git add README.md
-- [ ] git commit -m "first commit"
+```
+git init
+git add README.md
+git commit -m "first commit"
+```
 
 ## Set remote Path
-- [ ] git branch -M main
-- [ ] git remote remove origin
-- [ ] git remote add origin https://github.com/omeatai/git-labs-ifeanyi.git
+```
+git branch -M main
+git remote remove origin
+]git remote add origin https://github.com/omeatai/git-labs-ifeanyi.git
+```
 
 ## Push Local to Remote
-- [ ] git push -u origin main
+```
+git push -u origin main
+```
 
 ## List git Local Braches
-- [ ] git branch
+```
+git branch
+```
 
 ## List git Remote Branches
-- [ ] git branch -r
+```
+git branch -r
+```
 
 ## Create git Branch and Switch to Branch
 ```bs
@@ -28,7 +40,9 @@ git branch first-branch
 git checkout first-branch
 ```
 
-- [ ] git checkout -b "first-branch"
+```
+git checkout -b "first-branch"
+```
 
 ## Delete File from Remote Repo
 git rm --cached ./app/rough.txt
