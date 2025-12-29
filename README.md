@@ -1,6 +1,6 @@
-#INTRODUCTION
+# INTRODUCTION
 
-## Write Text to README.md File
+### Write Text to README.md File
 echo "# ifeanyi-test-2" >> README.md
 
 ## Commit README.md File
