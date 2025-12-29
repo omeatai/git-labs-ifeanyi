@@ -1,12 +1,12 @@
 # INTRODUCTION
 
-### Write Text to README.md File
-echo "# ifeanyi-test-2" >> README.md
+## Write Text to README.md File
+- [ ] echo "# ifeanyi-test-2" >> README.md
 
 ## Commit README.md File
-git init
-git add README.md
-git commit -m "first commit"
+- [ ] git init
+- [ ] git add README.md
+- [ ] git commit -m "first commit"
 
 ## Set remote Path
 git branch -M main
